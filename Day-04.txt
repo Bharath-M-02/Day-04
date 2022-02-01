@@ -1,0 +1,55 @@
+Day 4
+
+1. How to compare two JSON have the same properties without order?
+a. var obj1 = { name: "Person 1", age:5 };
+b. var obj2 = { age:5, name: "Person 1" };
+
+Code:
+
+
+
+2. Use the rest countries API url -> https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json and display all the country flags in console
+
+Code:
+var xhr = new XMLHttpRequest();
+xhr.open(
+  "GET",
+  "https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json"
+);
+xhr.send();
+
+xhr.onload = function () {
+  if (xhr.status >= 200 && xhr.status < 300) {
+    var data = JSON.parse(xhr.response);
+    // console.log(data);
+    for (let i = 0; i < data.length; i++) {
+      var user = data[i];
+      console.log(user.flag);
+    }
+  }
+};
+
+3. Use the same rest countries and print all countries name, region, sub region and population
+
+Code: 
+var xhr = new XMLHttpRequest();
+xhr.open(
+  "GET",
+  "https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json"
+);
+xhr.send();
+
+xhr.onload = function () {
+  if (xhr.status >= 200 && xhr.status < 300) {
+    var data = JSON.parse(xhr.response);
+    for (let i = 0; i < data.length; i++) {
+      var user = data[i];
+      console.log(`
+      Name: ${user.name}
+      Region: ${user.region}
+      Subregion: ${user.subregion}
+      Population: ${user.population}`);
+    }
+  }
+};
+
