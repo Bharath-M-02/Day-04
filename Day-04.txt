@@ -29,6 +29,9 @@ if(flag==true)
 else
     console.log("Both pbjects are not equal");
 
+Output:
+Both objects are equal
+
 
 2. Use the rest countries API url -> https://raw.githubusercontent.com/rvsp/restcountries-json-data/master/res-countries.json and display all the country flags in console
 
@@ -50,6 +53,258 @@ xhr.onload = function () {
     }
   }
 };
+
+Output:
+https://restcountries.eu/data/afg.svg 
+https://restcountries.eu/data/ala.svg 
+https://restcountries.eu/data/alb.svg 
+https://restcountries.eu/data/dza.svg 
+https://restcountries.eu/data/asm.svg 
+https://restcountries.eu/data/and.svg 
+https://restcountries.eu/data/ago.svg 
+https://restcountries.eu/data/aia.svg 
+https://restcountries.eu/data/ata.svg 
+https://restcountries.eu/data/atg.svg 
+https://restcountries.eu/data/arg.svg 
+https://restcountries.eu/data/arm.svg 
+https://restcountries.eu/data/abw.svg 
+https://restcountries.eu/data/aus.svg 
+https://restcountries.eu/data/aut.svg 
+https://restcountries.eu/data/aze.svg 
+https://restcountries.eu/data/bhs.svg 
+https://restcountries.eu/data/bhr.svg 
+https://restcountries.eu/data/bgd.svg 
+https://restcountries.eu/data/brb.svg 
+https://restcountries.eu/data/blr.svg 
+https://restcountries.eu/data/bel.svg 
+https://restcountries.eu/data/blz.svg 
+https://restcountries.eu/data/ben.svg 
+https://restcountries.eu/data/bmu.svg 
+https://restcountries.eu/data/btn.svg 
+https://restcountries.eu/data/bol.svg 
+https://restcountries.eu/data/bes.svg 
+https://restcountries.eu/data/bih.svg 
+https://restcountries.eu/data/bwa.svg 
+https://restcountries.eu/data/bvt.svg 
+https://restcountries.eu/data/bra.svg 
+https://restcountries.eu/data/iot.svg 
+https://restcountries.eu/data/umi.svg 
+https://restcountries.eu/data/vgb.svg 
+https://restcountries.eu/data/vir.svg 
+https://restcountries.eu/data/brn.svg 
+https://restcountries.eu/data/bgr.svg 
+https://restcountries.eu/data/bfa.svg 
+https://restcountries.eu/data/bdi.svg 
+https://restcountries.eu/data/khm.svg 
+https://restcountries.eu/data/cmr.svg 
+https://restcountries.eu/data/can.svg 
+https://restcountries.eu/data/cpv.svg 
+https://restcountries.eu/data/cym.svg 
+https://restcountries.eu/data/caf.svg 
+https://restcountries.eu/data/tcd.svg 
+https://restcountries.eu/data/chl.svg 
+https://restcountries.eu/data/chn.svg 
+https://restcountries.eu/data/cxr.svg 
+https://restcountries.eu/data/cck.svg 
+https://restcountries.eu/data/col.svg 
+https://restcountries.eu/data/com.svg 
+https://restcountries.eu/data/cog.svg 
+https://restcountries.eu/data/cod.svg 
+https://restcountries.eu/data/cok.svg 
+https://restcountries.eu/data/cri.svg 
+https://restcountries.eu/data/hrv.svg 
+https://restcountries.eu/data/cub.svg 
+https://restcountries.eu/data/cuw.svg 
+https://restcountries.eu/data/cyp.svg 
+https://restcountries.eu/data/cze.svg 
+https://restcountries.eu/data/dnk.svg 
+https://restcountries.eu/data/dji.svg 
+https://restcountries.eu/data/dma.svg 
+https://restcountries.eu/data/dom.svg 
+https://restcountries.eu/data/ecu.svg 
+https://restcountries.eu/data/egy.svg 
+https://restcountries.eu/data/slv.svg 
+https://restcountries.eu/data/gnq.svg 
+https://restcountries.eu/data/eri.svg 
+https://restcountries.eu/data/est.svg 
+https://restcountries.eu/data/eth.svg 
+https://restcountries.eu/data/flk.svg 
+https://restcountries.eu/data/fro.svg 
+https://restcountries.eu/data/fji.svg 
+https://restcountries.eu/data/fin.svg 
+https://restcountries.eu/data/fra.svg 
+https://restcountries.eu/data/guf.svg 
+https://restcountries.eu/data/pyf.svg 
+https://restcountries.eu/data/atf.svg 
+https://restcountries.eu/data/gab.svg 
+https://restcountries.eu/data/gmb.svg 
+https://restcountries.eu/data/geo.svg 
+https://restcountries.eu/data/deu.svg 
+https://restcountries.eu/data/gha.svg 
+https://restcountries.eu/data/gib.svg 
+https://restcountries.eu/data/grc.svg 
+https://restcountries.eu/data/grl.svg 
+https://restcountries.eu/data/grd.svg 
+https://restcountries.eu/data/glp.svg 
+https://restcountries.eu/data/gum.svg 
+https://restcountries.eu/data/gtm.svg 
+https://restcountries.eu/data/ggy.svg 
+https://restcountries.eu/data/gin.svg 
+https://restcountries.eu/data/gnb.svg 
+https://restcountries.eu/data/guy.svg 
+https://restcountries.eu/data/hti.svg 
+https://restcountries.eu/data/hmd.svg 
+https://restcountries.eu/data/vat.svg 
+https://restcountries.eu/data/hnd.svg 
+https://restcountries.eu/data/hkg.svg 
+https://restcountries.eu/data/hun.svg 
+https://restcountries.eu/data/isl.svg 
+https://restcountries.eu/data/ind.svg 
+https://restcountries.eu/data/idn.svg 
+https://restcountries.eu/data/civ.svg 
+https://restcountries.eu/data/irn.svg 
+https://restcountries.eu/data/irq.svg 
+https://restcountries.eu/data/irl.svg 
+https://restcountries.eu/data/imn.svg 
+https://restcountries.eu/data/isr.svg 
+https://restcountries.eu/data/ita.svg 
+https://restcountries.eu/data/jam.svg 
+https://restcountries.eu/data/jpn.svg 
+https://restcountries.eu/data/jey.svg 
+https://restcountries.eu/data/jor.svg 
+https://restcountries.eu/data/kaz.svg 
+https://restcountries.eu/data/ken.svg 
+https://restcountries.eu/data/kir.svg 
+https://restcountries.eu/data/kwt.svg 
+https://restcountries.eu/data/kgz.svg 
+https://restcountries.eu/data/lao.svg 
+https://restcountries.eu/data/lva.svg 
+https://restcountries.eu/data/lbn.svg 
+https://restcountries.eu/data/lso.svg 
+https://restcountries.eu/data/lbr.svg 
+https://restcountries.eu/data/lby.svg 
+https://restcountries.eu/data/lie.svg 
+https://restcountries.eu/data/ltu.svg 
+https://restcountries.eu/data/lux.svg 
+https://restcountries.eu/data/mac.svg 
+https://restcountries.eu/data/mkd.svg 
+https://restcountries.eu/data/mdg.svg 
+https://restcountries.eu/data/mwi.svg 
+https://restcountries.eu/data/mys.svg 
+https://restcountries.eu/data/mdv.svg 
+https://restcountries.eu/data/mli.svg 
+https://restcountries.eu/data/mlt.svg 
+https://restcountries.eu/data/mhl.svg 
+https://restcountries.eu/data/mtq.svg 
+https://restcountries.eu/data/mrt.svg 
+https://restcountries.eu/data/mus.svg 
+https://restcountries.eu/data/myt.svg 
+https://restcountries.eu/data/mex.svg 
+https://restcountries.eu/data/fsm.svg 
+https://restcountries.eu/data/mda.svg 
+https://restcountries.eu/data/mco.svg 
+https://restcountries.eu/data/mng.svg 
+https://restcountries.eu/data/mne.svg 
+https://restcountries.eu/data/msr.svg 
+https://restcountries.eu/data/mar.svg 
+https://restcountries.eu/data/moz.svg 
+https://restcountries.eu/data/mmr.svg 
+https://restcountries.eu/data/nam.svg 
+https://restcountries.eu/data/nru.svg 
+https://restcountries.eu/data/npl.svg 
+https://restcountries.eu/data/nld.svg 
+https://restcountries.eu/data/ncl.svg 
+https://restcountries.eu/data/nzl.svg 
+https://restcountries.eu/data/nic.svg 
+https://restcountries.eu/data/ner.svg 
+https://restcountries.eu/data/nga.svg 
+https://restcountries.eu/data/niu.svg 
+https://restcountries.eu/data/nfk.svg 
+https://restcountries.eu/data/prk.svg 
+https://restcountries.eu/data/mnp.svg 
+https://restcountries.eu/data/nor.svg 
+https://restcountries.eu/data/omn.svg 
+https://restcountries.eu/data/pak.svg 
+https://restcountries.eu/data/plw.svg 
+https://restcountries.eu/data/pse.svg 
+https://restcountries.eu/data/pan.svg 
+https://restcountries.eu/data/png.svg 
+https://restcountries.eu/data/pry.svg 
+https://restcountries.eu/data/per.svg 
+https://restcountries.eu/data/phl.svg 
+https://restcountries.eu/data/pcn.svg 
+https://restcountries.eu/data/pol.svg 
+https://restcountries.eu/data/prt.svg 
+https://restcountries.eu/data/pri.svg 
+https://restcountries.eu/data/qat.svg 
+https://restcountries.eu/data/kos.svg 
+https://restcountries.eu/data/reu.svg 
+https://restcountries.eu/data/rou.svg 
+https://restcountries.eu/data/rus.svg 
+https://restcountries.eu/data/rwa.svg 
+https://restcountries.eu/data/blm.svg 
+https://restcountries.eu/data/shn.svg 
+https://restcountries.eu/data/kna.svg 
+https://restcountries.eu/data/lca.svg 
+https://restcountries.eu/data/maf.svg 
+https://restcountries.eu/data/spm.svg 
+https://restcountries.eu/data/vct.svg 
+https://restcountries.eu/data/wsm.svg 
+https://restcountries.eu/data/smr.svg 
+https://restcountries.eu/data/stp.svg 
+https://restcountries.eu/data/sau.svg 
+https://restcountries.eu/data/sen.svg 
+https://restcountries.eu/data/srb.svg 
+https://restcountries.eu/data/syc.svg 
+https://restcountries.eu/data/sle.svg 
+https://restcountries.eu/data/sgp.svg 
+https://restcountries.eu/data/sxm.svg 
+https://restcountries.eu/data/svk.svg 
+https://restcountries.eu/data/svn.svg 
+https://restcountries.eu/data/slb.svg 
+https://restcountries.eu/data/som.svg 
+https://restcountries.eu/data/zaf.svg 
+https://restcountries.eu/data/sgs.svg 
+https://restcountries.eu/data/kor.svg 
+https://restcountries.eu/data/ssd.svg 
+https://restcountries.eu/data/esp.svg 
+https://restcountries.eu/data/lka.svg 
+https://restcountries.eu/data/sdn.svg 
+https://restcountries.eu/data/sur.svg 
+https://restcountries.eu/data/sjm.svg 
+https://restcountries.eu/data/swz.svg 
+https://restcountries.eu/data/swe.svg 
+https://restcountries.eu/data/che.svg 
+https://restcountries.eu/data/syr.svg 
+https://restcountries.eu/data/twn.svg 
+https://restcountries.eu/data/tjk.svg 
+https://restcountries.eu/data/tza.svg 
+https://restcountries.eu/data/tha.svg 
+https://restcountries.eu/data/tls.svg 
+https://restcountries.eu/data/tgo.svg 
+https://restcountries.eu/data/tkl.svg 
+https://restcountries.eu/data/ton.svg 
+https://restcountries.eu/data/tto.svg 
+https://restcountries.eu/data/tun.svg 
+https://restcountries.eu/data/tur.svg 
+https://restcountries.eu/data/tkm.svg 
+https://restcountries.eu/data/tca.svg 
+https://restcountries.eu/data/tuv.svg 
+https://restcountries.eu/data/uga.svg 
+https://restcountries.eu/data/ukr.svg 
+https://restcountries.eu/data/are.svg 
+https://restcountries.eu/data/gbr.svg 
+https://restcountries.eu/data/usa.svg 
+https://restcountries.eu/data/ury.svg 
+https://restcountries.eu/data/uzb.svg 
+https://restcountries.eu/data/vut.svg 
+https://restcountries.eu/data/ven.svg 
+https://restcountries.eu/data/vnm.svg 
+https://restcountries.eu/data/wlf.svg 
+https://restcountries.eu/data/esh.svg 
+https://restcountries.eu/data/yem.svg 
+https://restcountries.eu/data/zmb.svg 
+https://restcountries.eu/data/zwe.svg
 
 3. Use the same rest countries and print all countries name, region, sub region and population
 
@@ -75,3 +330,1253 @@ xhr.onload = function () {
   }
 };
 
+Output:
+Name: Afghanistan
+Region: Asia
+Subregion: Southern Asia
+Population: 27657145 
+
+Name: Åland Islands
+Region: Europe
+Subregion: Northern Europe
+Population: 28875 
+
+Name: Albania
+Region: Europe
+Subregion: Southern Europe
+Population: 2886026 
+
+Name: Algeria
+Region: Africa
+Subregion: Northern Africa
+Population: 40400000 
+
+Name: American Samoa
+Region: Oceania
+Subregion: Polynesia
+Population: 57100 
+
+Name: Andorra
+Region: Europe
+Subregion: Southern Europe
+Population: 78014 
+
+Name: Angola
+Region: Africa
+Subregion: Middle Africa
+Population: 25868000 
+
+Name: Anguilla
+Region: Americas
+Subregion: Caribbean
+Population: 13452 
+
+Name: Antarctica
+Region: Polar
+Subregion: 
+Population: 1000 
+
+Name: Antigua and Barbuda
+Region: Americas
+Subregion: Caribbean
+Population: 86295 
+
+Name: Argentina
+Region: Americas
+Subregion: South America
+Population: 43590400 
+
+Name: Armenia
+Region: Asia
+Subregion: Western Asia
+Population: 2994400 
+
+Name: Aruba
+Region: Americas
+Subregion: Caribbean
+Population: 107394 
+
+Name: Australia
+Region: Oceania
+Subregion: Australia and New Zealand
+Population: 24117360 
+
+Name: Austria
+Region: Europe
+Subregion: Western Europe
+Population: 8725931 
+
+Name: Azerbaijan
+Region: Asia
+Subregion: Western Asia
+Population: 9730500 
+
+Name: Bahamas
+Region: Americas
+Subregion: Caribbean
+Population: 378040 
+
+Name: Bahrain
+Region: Asia
+Subregion: Western Asia
+Population: 1404900 
+
+Name: Bangladesh
+Region: Asia
+Subregion: Southern Asia
+Population: 161006790 
+
+Name: Barbados
+Region: Americas
+Subregion: Caribbean
+Population: 285000 
+
+Name: Belarus
+Region: Europe
+Subregion: Eastern Europe
+Population: 9498700 
+
+Name: Belgium
+Region: Europe
+Subregion: Western Europe
+Population: 11319511 
+
+Name: Belize
+Region: Americas
+Subregion: Central America
+Population: 370300 
+
+Name: Benin
+Region: Africa
+Subregion: Western Africa
+Population: 10653654 
+
+Name: Bermuda
+Region: Americas
+Subregion: Northern America
+Population: 61954 
+
+Name: Bhutan
+Region: Asia
+Subregion: Southern Asia
+Population: 775620 
+
+Name: Bolivia (Plurinational State of)
+Region: Americas
+Subregion: South America
+Population: 10985059 
+
+Name: Bonaire, Sint Eustatius and Saba
+Region: Americas
+Subregion: Caribbean
+Population: 17408 
+
+Name: Bosnia and Herzegovina
+Region: Europe
+Subregion: Southern Europe
+Population: 3531159 
+
+Name: Botswana
+Region: Africa
+Subregion: Southern Africa
+Population: 2141206 
+
+Name: Bouvet Island
+Region: 
+Subregion: 
+Population: 0 
+
+Name: Brazil
+Region: Americas
+Subregion: South America
+Population: 206135893 
+
+Name: British Indian Ocean Territory
+Region: Africa
+Subregion: Eastern Africa
+Population: 3000 
+
+Name: United States Minor Outlying Islands
+Region: Americas
+Subregion: Northern America
+Population: 300 
+
+Name: Virgin Islands (British)
+Region: Americas
+Subregion: Caribbean
+Population: 28514 
+
+Name: Virgin Islands (U.S.)
+Region: Americas
+Subregion: Caribbean
+Population: 114743 
+
+Name: Brunei Darussalam
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 411900 
+
+Name: Bulgaria
+Region: Europe
+Subregion: Eastern Europe
+Population: 7153784 
+
+Name: Burkina Faso
+Region: Africa
+Subregion: Western Africa
+Population: 19034397 
+
+Name: Burundi
+Region: Africa
+Subregion: Eastern Africa
+Population: 10114505 
+
+Name: Cambodia
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 15626444 
+
+Name: Cameroon
+Region: Africa
+Subregion: Middle Africa
+Population: 22709892 
+
+Name: Canada
+Region: Americas
+Subregion: Northern America
+Population: 36155487 
+
+Name: Cabo Verde
+Region: Africa
+Subregion: Western Africa
+Population: 531239 
+
+Name: Cayman Islands
+Region: Americas
+Subregion: Caribbean
+Population: 58238 
+
+Name: Central African Republic
+Region: Africa
+Subregion: Middle Africa
+Population: 4998000 
+
+Name: Chad
+Region: Africa
+Subregion: Middle Africa
+Population: 14497000 
+
+Name: Chile
+Region: Americas
+Subregion: South America
+Population: 18191900 
+
+Name: China
+Region: Asia
+Subregion: Eastern Asia
+Population: 1377422166 
+
+Name: Christmas Island
+Region: Oceania
+Subregion: Australia and New Zealand
+Population: 2072 
+
+Name: Cocos (Keeling) Islands
+Region: Oceania
+Subregion: Australia and New Zealand
+Population: 550 
+
+Name: Colombia
+Region: Americas
+Subregion: South America
+Population: 48759958 
+
+Name: Comoros
+Region: Africa
+Subregion: Eastern Africa
+Population: 806153 
+
+Name: Congo
+Region: Africa
+Subregion: Middle Africa
+Population: 4741000 
+
+Name: Congo (Democratic Republic of the)
+Region: Africa
+Subregion: Middle Africa
+Population: 85026000 
+
+Name: Cook Islands
+Region: Oceania
+Subregion: Polynesia
+Population: 18100 
+
+Name: Costa Rica
+Region: Americas
+Subregion: Central America
+Population: 4890379 
+
+Name: Croatia
+Region: Europe
+Subregion: Southern Europe
+Population: 4190669 
+
+Name: Cuba
+Region: Americas
+Subregion: Caribbean
+Population: 11239004 
+
+Name: Curaçao
+Region: Americas
+Subregion: Caribbean
+Population: 154843 
+
+Name: Cyprus
+Region: Europe
+Subregion: Southern Europe
+Population: 847000 
+
+Name: Czech Republic
+Region: Europe
+Subregion: Eastern Europe
+Population: 10558524 
+
+Name: Denmark
+Region: Europe
+Subregion: Northern Europe
+Population: 5717014 
+
+Name: Djibouti
+Region: Africa
+Subregion: Eastern Africa
+Population: 900000 
+
+Name: Dominica
+Region: Americas
+Subregion: Caribbean
+Population: 71293 
+
+Name: Dominican Republic
+Region: Americas
+Subregion: Caribbean
+Population: 10075045 
+
+Name: Ecuador
+Region: Americas
+Subregion: South America
+Population: 16545799 
+
+Name: Egypt
+Region: Africa
+Subregion: Northern Africa
+Population: 91290000 
+
+Name: El Salvador
+Region: Americas
+Subregion: Central America
+Population: 6520675 
+
+Name: Equatorial Guinea
+Region: Africa
+Subregion: Middle Africa
+Population: 1222442 
+
+Name: Eritrea
+Region: Africa
+Subregion: Eastern Africa
+Population: 5352000 
+
+Name: Estonia
+Region: Europe
+Subregion: Northern Europe
+Population: 1315944 
+
+Name: Ethiopia
+Region: Africa
+Subregion: Eastern Africa
+Population: 92206005 
+
+Name: Falkland Islands (Malvinas)
+Region: Americas
+Subregion: South America
+Population: 2563 
+
+Name: Faroe Islands
+Region: Europe
+Subregion: Northern Europe
+Population: 49376 
+
+Name: Fiji
+Region: Oceania
+Subregion: Melanesia
+Population: 867000 
+
+Name: Finland
+Region: Europe
+Subregion: Northern Europe
+Population: 5491817 
+
+Name: France
+Region: Europe
+Subregion: Western Europe
+Population: 66710000 
+
+Name: French Guiana
+Region: Americas
+Subregion: South America
+Population: 254541 
+
+Name: French Polynesia
+Region: Oceania
+Subregion: Polynesia
+Population: 271800 
+
+Name: French Southern Territories
+Region: Africa
+Subregion: Southern Africa
+Population: 140 
+
+Name: Gabon
+Region: Africa
+Subregion: Middle Africa
+Population: 1802278 
+
+Name: Gambia
+Region: Africa
+Subregion: Western Africa
+Population: 1882450 
+
+Name: Georgia
+Region: Asia
+Subregion: Western Asia
+Population: 3720400 
+
+Name: Germany
+Region: Europe
+Subregion: Western Europe
+Population: 81770900 
+
+Name: Ghana
+Region: Africa
+Subregion: Western Africa
+Population: 27670174 
+
+Name: Gibraltar
+Region: Europe
+Subregion: Southern Europe
+Population: 33140 
+
+Name: Greece
+Region: Europe
+Subregion: Southern Europe
+Population: 10858018 
+
+Name: Greenland
+Region: Americas
+Subregion: Northern America
+Population: 55847 
+
+Name: Grenada
+Region: Americas
+Subregion: Caribbean
+Population: 103328 
+
+Name: Guadeloupe
+Region: Americas
+Subregion: Caribbean
+Population: 400132 
+
+Name: Guam
+Region: Oceania
+Subregion: Micronesia
+Population: 184200 
+
+Name: Guatemala
+Region: Americas
+Subregion: Central America
+Population: 16176133 
+
+Name: Guernsey
+Region: Europe
+Subregion: Northern Europe
+Population: 62999 
+
+Name: Guinea
+Region: Africa
+Subregion: Western Africa
+Population: 12947000 
+
+Name: Guinea-Bissau
+Region: Africa
+Subregion: Western Africa
+Population: 1547777 
+
+Name: Guyana
+Region: Americas
+Subregion: South America
+Population: 746900 
+
+Name: Haiti
+Region: Americas
+Subregion: Caribbean
+Population: 11078033 
+
+Name: Heard Island and McDonald Islands
+Region: 
+Subregion: 
+Population: 0 
+
+Name: Holy See
+Region: Europe
+Subregion: Southern Europe
+Population: 451 
+
+Name: Honduras
+Region: Americas
+Subregion: Central America
+Population: 8576532 
+
+Name: Hong Kong
+Region: Asia
+Subregion: Eastern Asia
+Population: 7324300 
+
+Name: Hungary
+Region: Europe
+Subregion: Eastern Europe
+Population: 9823000 
+
+Name: Iceland
+Region: Europe
+Subregion: Northern Europe
+Population: 334300 
+
+Name: India
+Region: Asia
+Subregion: Southern Asia
+Population: 1295210000 
+
+Name: Indonesia
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 258705000 
+
+Name: Côte d'Ivoire
+Region: Africa
+Subregion: Western Africa
+Population: 22671331 
+
+Name: Iran (Islamic Republic of)
+Region: Asia
+Subregion: Southern Asia
+Population: 79369900 
+
+Name: Iraq
+Region: Asia
+Subregion: Western Asia
+Population: 37883543 
+
+Name: Ireland
+Region: Europe
+Subregion: Northern Europe
+Population: 6378000 
+
+Name: Isle of Man
+Region: Europe
+Subregion: Northern Europe
+Population: 84497 
+
+Name: Israel
+Region: Asia
+Subregion: Western Asia
+Population: 8527400 
+
+Name: Italy
+Region: Europe
+Subregion: Southern Europe
+Population: 60665551 
+
+Name: Jamaica
+Region: Americas
+Subregion: Caribbean
+Population: 2723246 
+
+Name: Japan
+Region: Asia
+Subregion: Eastern Asia
+Population: 126960000 
+
+Name: Jersey
+Region: Europe
+Subregion: Northern Europe
+Population: 100800 
+
+Name: Jordan
+Region: Asia
+Subregion: Western Asia
+Population: 9531712 
+
+Name: Kazakhstan
+Region: Asia
+Subregion: Central Asia
+Population: 17753200 
+
+Name: Kenya
+Region: Africa
+Subregion: Eastern Africa
+Population: 47251000 
+
+Name: Kiribati
+Region: Oceania
+Subregion: Micronesia
+Population: 113400 
+
+Name: Kuwait
+Region: Asia
+Subregion: Western Asia
+Population: 4183658 
+
+Name: Kyrgyzstan
+Region: Asia
+Subregion: Central Asia
+Population: 6047800 
+
+Name: Lao People's Democratic Republic
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 6492400 
+
+Name: Latvia
+Region: Europe
+Subregion: Northern Europe
+Population: 1961600 
+
+Name: Lebanon
+Region: Asia
+Subregion: Western Asia
+Population: 5988000 
+
+Name: Lesotho
+Region: Africa
+Subregion: Southern Africa
+Population: 1894194 
+
+Name: Liberia
+Region: Africa
+Subregion: Western Africa
+Population: 4615000 
+
+Name: Libya
+Region: Africa
+Subregion: Northern Africa
+Population: 6385000 
+
+Name: Liechtenstein
+Region: Europe
+Subregion: Western Europe
+Population: 37623 
+
+Name: Lithuania
+Region: Europe
+Subregion: Northern Europe
+Population: 2872294 
+
+Name: Luxembourg
+Region: Europe
+Subregion: Western Europe
+Population: 576200 
+
+Name: Macao
+Region: Asia
+Subregion: Eastern Asia
+Population: 649100 
+
+Name: Macedonia (the former Yugoslav Republic of)
+Region: Europe
+Subregion: Southern Europe
+Population: 2058539 
+
+Name: Madagascar
+Region: Africa
+Subregion: Eastern Africa
+Population: 22434363 
+
+Name: Malawi
+Region: Africa
+Subregion: Eastern Africa
+Population: 16832910 
+
+Name: Malaysia
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 31405416 
+
+Name: Maldives
+Region: Asia
+Subregion: Southern Asia
+Population: 344023 
+
+Name: Mali
+Region: Africa
+Subregion: Western Africa
+Population: 18135000 
+
+Name: Malta
+Region: Europe
+Subregion: Southern Europe
+Population: 425384 
+
+Name: Marshall Islands
+Region: Oceania
+Subregion: Micronesia
+Population: 54880 
+
+Name: Martinique
+Region: Americas
+Subregion: Caribbean
+Population: 378243 
+
+Name: Mauritania
+Region: Africa
+Subregion: Western Africa
+Population: 3718678 
+
+Name: Mauritius
+Region: Africa
+Subregion: Eastern Africa
+Population: 1262879 
+
+Name: Mayotte
+Region: Africa
+Subregion: Eastern Africa
+Population: 226915 
+
+Name: Mexico
+Region: Americas
+Subregion: Central America
+Population: 122273473 
+
+Name: Micronesia (Federated States of)
+Region: Oceania
+Subregion: Micronesia
+Population: 102800 
+
+Name: Moldova (Republic of)
+Region: Europe
+Subregion: Eastern Europe
+Population: 3553100 
+
+Name: Monaco
+Region: Europe
+Subregion: Western Europe
+Population: 38400 
+
+Name: Mongolia
+Region: Asia
+Subregion: Eastern Asia
+Population: 3093100 
+
+Name: Montenegro
+Region: Europe
+Subregion: Southern Europe
+Population: 621810 
+
+Name: Montserrat
+Region: Americas
+Subregion: Caribbean
+Population: 4922 
+
+Name: Morocco
+Region: Africa
+Subregion: Northern Africa
+Population: 33337529 
+
+Name: Mozambique
+Region: Africa
+Subregion: Eastern Africa
+Population: 26423700 
+
+Name: Myanmar
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 51419420 
+
+Name: Namibia
+Region: Africa
+Subregion: Southern Africa
+Population: 2324388 
+
+Name: Nauru
+Region: Oceania
+Subregion: Micronesia
+Population: 10084 
+
+Name: Nepal
+Region: Asia
+Subregion: Southern Asia
+Population: 28431500 
+
+Name: Netherlands
+Region: Europe
+Subregion: Western Europe
+Population: 17019800 
+
+Name: New Caledonia
+Region: Oceania
+Subregion: Melanesia
+Population: 268767 
+
+Name: New Zealand
+Region: Oceania
+Subregion: Australia and New Zealand
+Population: 4697854 
+
+Name: Nicaragua
+Region: Americas
+Subregion: Central America
+Population: 6262703 
+
+Name: Niger
+Region: Africa
+Subregion: Western Africa
+Population: 20715000 
+
+Name: Nigeria
+Region: Africa
+Subregion: Western Africa
+Population: 186988000 
+
+Name: Niue
+Region: Oceania
+Subregion: Polynesia
+Population: 1470 
+
+Name: Norfolk Island
+Region: Oceania
+Subregion: Australia and New Zealand
+Population: 2302 
+
+Name: Korea (Democratic People's Republic of)
+Region: Asia
+Subregion: Eastern Asia
+Population: 25281000 
+
+Name: Northern Mariana Islands
+Region: Oceania
+Subregion: Micronesia
+Population: 56940 
+
+Name: Norway
+Region: Europe
+Subregion: Northern Europe
+Population: 5223256 
+
+Name: Oman
+Region: Asia
+Subregion: Western Asia
+Population: 4420133 
+
+Name: Pakistan
+Region: Asia
+Subregion: Southern Asia
+Population: 194125062 
+
+Name: Palau
+Region: Oceania
+Subregion: Micronesia
+Population: 17950 
+
+Name: Palestine, State of
+Region: Asia
+Subregion: Western Asia
+Population: 4682467 
+
+Name: Panama
+Region: Americas
+Subregion: Central America
+Population: 3814672 
+
+Name: Papua New Guinea
+Region: Oceania
+Subregion: Melanesia
+Population: 8083700 
+
+Name: Paraguay
+Region: Americas
+Subregion: South America
+Population: 6854536 
+
+Name: Peru
+Region: Americas
+Subregion: South America
+Population: 31488700 
+
+Name: Philippines
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 103279800 
+
+Name: Pitcairn
+Region: Oceania
+Subregion: Polynesia
+Population: 56 
+
+Name: Poland
+Region: Europe
+Subregion: Eastern Europe
+Population: 38437239 
+
+Name: Portugal
+Region: Europe
+Subregion: Southern Europe
+Population: 10374822 
+
+Name: Puerto Rico
+Region: Americas
+Subregion: Caribbean
+Population: 3474182 
+
+Name: Qatar
+Region: Asia
+Subregion: Western Asia
+Population: 2587564 
+
+Name: Republic of Kosovo
+Region: Europe
+Subregion: Eastern Europe
+Population: 1733842 
+
+Name: Réunion
+Region: Africa
+Subregion: Eastern Africa
+Population: 840974 
+
+Name: Romania
+Region: Europe
+Subregion: Eastern Europe
+Population: 19861408 
+
+Name: Russian Federation
+Region: Europe
+Subregion: Eastern Europe
+Population: 146599183 
+
+Name: Rwanda
+Region: Africa
+Subregion: Eastern Africa
+Population: 11553188 
+
+Name: Saint Barthélemy
+Region: Americas
+Subregion: Caribbean
+Population: 9417 
+
+Name: Saint Helena, Ascension and Tristan da Cunha
+Region: Africa
+Subregion: Western Africa
+Population: 4255 
+
+Name: Saint Kitts and Nevis
+Region: Americas
+Subregion: Caribbean
+Population: 46204 
+
+Name: Saint Lucia
+Region: Americas
+Subregion: Caribbean
+Population: 186000 
+
+Name: Saint Martin (French part)
+Region: Americas
+Subregion: Caribbean
+Population: 36979 
+
+Name: Saint Pierre and Miquelon
+Region: Americas
+Subregion: Northern America
+Population: 6069 
+
+Name: Saint Vincent and the Grenadines
+Region: Americas
+Subregion: Caribbean
+Population: 109991 
+
+Name: Samoa
+Region: Oceania
+Subregion: Polynesia
+Population: 194899 
+
+Name: San Marino
+Region: Europe
+Subregion: Southern Europe
+Population: 33005 
+
+Name: Sao Tome and Principe
+Region: Africa
+Subregion: Middle Africa
+Population: 187356 
+
+Name: Saudi Arabia
+Region: Asia
+Subregion: Western Asia
+Population: 32248200 
+
+Name: Senegal
+Region: Africa
+Subregion: Western Africa
+Population: 14799859 
+
+Name: Serbia
+Region: Europe
+Subregion: Southern Europe
+Population: 7076372 
+
+Name: Seychelles
+Region: Africa
+Subregion: Eastern Africa
+Population: 91400 
+
+Name: Sierra Leone
+Region: Africa
+Subregion: Western Africa
+Population: 7075641 
+
+Name: Singapore
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 5535000 
+
+Name: Sint Maarten (Dutch part)
+Region: Americas
+Subregion: Caribbean
+Population: 38247 
+
+Name: Slovakia
+Region: Europe
+Subregion: Eastern Europe
+Population: 5426252 
+
+Name: Slovenia
+Region: Europe
+Subregion: Southern Europe
+Population: 2064188 
+
+Name: Solomon Islands
+Region: Oceania
+Subregion: Melanesia
+Population: 642000 
+
+Name: Somalia
+Region: Africa
+Subregion: Eastern Africa
+Population: 11079000 
+
+Name: South Africa
+Region: Africa
+Subregion: Southern Africa
+Population: 55653654 
+
+Name: South Georgia and the South Sandwich Islands
+Region: Americas
+Subregion: South America
+Population: 30 
+
+Name: Korea (Republic of)
+Region: Asia
+Subregion: Eastern Asia
+Population: 50801405 
+
+Name: South Sudan
+Region: Africa
+Subregion: Middle Africa
+Population: 12131000 
+
+Name: Spain
+Region: Europe
+Subregion: Southern Europe
+Population: 46438422 
+
+Name: Sri Lanka
+Region: Asia
+Subregion: Southern Asia
+Population: 20966000 
+
+Name: Sudan
+Region: Africa
+Subregion: Northern Africa
+Population: 39598700 
+
+Name: Suriname
+Region: Americas
+Subregion: South America
+Population: 541638 
+
+Name: Svalbard and Jan Mayen
+Region: Europe
+Subregion: Northern Europe
+Population: 2562 
+
+Name: Swaziland
+Region: Africa
+Subregion: Southern Africa
+Population: 1132657 
+
+Name: Sweden
+Region: Europe
+Subregion: Northern Europe
+Population: 9894888 
+
+Name: Switzerland
+Region: Europe
+Subregion: Western Europe
+Population: 8341600 
+
+Name: Syrian Arab Republic
+Region: Asia
+Subregion: Western Asia
+Population: 18564000 
+
+Name: Taiwan
+Region: Asia
+Subregion: Eastern Asia
+Population: 23503349 
+
+Name: Tajikistan
+Region: Asia
+Subregion: Central Asia
+Population: 8593600 
+
+Name: Tanzania, United Republic of
+Region: Africa
+Subregion: Eastern Africa
+Population: 55155000 
+
+Name: Thailand
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 65327652 
+
+Name: Timor-Leste
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 1167242 
+
+Name: Togo
+Region: Africa
+Subregion: Western Africa
+Population: 7143000 
+
+Name: Tokelau
+Region: Oceania
+Subregion: Polynesia
+Population: 1411 
+
+Name: Tonga
+Region: Oceania
+Subregion: Polynesia
+Population: 103252 
+
+Name: Trinidad and Tobago
+Region: Americas
+Subregion: Caribbean
+Population: 1349667 
+
+Name: Tunisia
+Region: Africa
+Subregion: Northern Africa
+Population: 11154400 
+
+Name: Turkey
+Region: Asia
+Subregion: Western Asia
+Population: 78741053 
+
+Name: Turkmenistan
+Region: Asia
+Subregion: Central Asia
+Population: 4751120 
+
+Name: Turks and Caicos Islands
+Region: Americas
+Subregion: Caribbean
+Population: 31458 
+
+Name: Tuvalu
+Region: Oceania
+Subregion: Polynesia
+Population: 10640 
+
+Name: Uganda
+Region: Africa
+Subregion: Eastern Africa
+Population: 33860700 
+
+Name: Ukraine
+Region: Europe
+Subregion: Eastern Europe
+Population: 42692393 
+
+Name: United Arab Emirates
+Region: Asia
+Subregion: Western Asia
+Population: 9856000 
+
+Name: United Kingdom of Great Britain and Northern Ireland
+Region: Europe
+Subregion: Northern Europe
+Population: 65110000 
+
+Name: United States of America
+Region: Americas
+Subregion: Northern America
+Population: 323947000 
+
+Name: Uruguay
+Region: Americas
+Subregion: South America
+Population: 3480222 
+
+Name: Uzbekistan
+Region: Asia
+Subregion: Central Asia
+Population: 31576400 
+
+Name: Vanuatu
+Region: Oceania
+Subregion: Melanesia
+Population: 277500 
+
+Name: Venezuela (Bolivarian Republic of)
+Region: Americas
+Subregion: South America
+Population: 31028700 
+
+Name: Viet Nam
+Region: Asia
+Subregion: South-Eastern Asia
+Population: 92700000 
+
+Name: Wallis and Futuna
+Region: Oceania
+Subregion: Polynesia
+Population: 11750 
+
+Name: Western Sahara
+Region: Africa
+Subregion: Northern Africa
+Population: 510713 
+
+Name: Yemen
+Region: Asia
+Subregion: Western Asia
+Population: 27478000 
+
+Name: Zambia
+Region: Africa
+Subregion: Eastern Africa
+Population: 15933883 
+
+Name: Zimbabwe
+Region: Africa
+Subregion: Eastern Africa
+Population: 14240168 
